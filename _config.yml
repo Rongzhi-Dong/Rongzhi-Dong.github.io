@@ -16,7 +16,6 @@ author:
     University of South Carolina
   email: "rongzhid@email.sc.edu"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=Duqx0poAAAAJ"
-  # linkedin: "https://www.linkedin.com/in/rongzhi-dong-894046294/"
 
 collections:
   pages:
@@ -38,5 +37,3 @@ navigation:
       url: /research/
     - title: "Publications"
       url: /publications/
-    - title: "CV"
-      url: /cv/
