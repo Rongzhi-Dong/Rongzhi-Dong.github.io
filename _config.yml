@@ -11,11 +11,9 @@ plugins:
 author:
   name: "Rongzhi Dong"
   avatar: "/images/profile.jpg"
-  bio: >
-    Ph.D., Computer Science  
-    University of South Carolina
-  email: "rongzhid@email.sc.edu"
-  googlescholar: "https://scholar.google.com/citations?user=Duqx0poAAAAJ&hl=en&oi=ao"
+  bio: "Ph.D in Computer Science"
+  email            : "rongzhid@email.sc.edu" 
+  googlescholar    : "https://scholar.google.com/citations?user=Duqx0poAAAAJ&hl=en"
 
 collections:
   pages:
