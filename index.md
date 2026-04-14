@@ -5,11 +5,11 @@ author_profile: true
 
 <!-- # Rongzhi Dong -->
 
-Ph.D., Computer Science (2026)   
+<!-- Ph.D., Computer Science (2026)   
 University of South Carolina 
 
 📧 rongzhid@email.sc.edu  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=Duqx0poAAAAJ)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=Duqx0poAAAAJ) -->
 
 ---
 
