@@ -1,5 +1,4 @@
 title: Rongzhi Dong
-name: Rongzhi Dong
 description: PhD in Computer Science
 
 url: "https://RongzhiDong.github.io"
@@ -12,8 +11,9 @@ plugins:
 author:
   name: "Rongzhi Dong"
   avatar: "/images/profile.jpg"
-  bio: "PhD in Computer Science | Generative AI for Scientific Discovery"
-  location: "USA"
+  bio: >
+    Ph.D., Computer Science  
+    University of South Carolina
   email: "rongzhid@email.sc.edu"
   googlescholar: "https://scholar.google.com/citations?user=Duqx0poAAAAJ"
   linkedin: "https://www.linkedin.com/in/rongzhi-dong-894046294/"
