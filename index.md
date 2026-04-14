@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# Rongzhi Dong
+<!-- # Rongzhi Dong -->
 
 Ph.D., Computer Science (2026)   
 University of South Carolina 
