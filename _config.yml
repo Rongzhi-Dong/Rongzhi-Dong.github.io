@@ -12,8 +12,14 @@ author:
   name: "Rongzhi Dong"
   avatar: "/images/profile.jpg"
   bio: "Ph.D in Computer Science"
-  email            : "rongzhid@email.sc.edu" 
-  googlescholar    : "https://scholar.google.com/citations?user=Duqx0poAAAAJ&hl=en"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:rongzhid@email.sc.edu"
+
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Duqx0poAAAAJ"
 
 collections:
   pages:
