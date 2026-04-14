@@ -3,7 +3,10 @@ layout: home
 author_profile: true
 ---
 
-## 🔬 About Me
+
+
+
+## About Me
 
 I am a Ph.D. candidate working at the intersection of **Generative AI and AI for Science (AI4Science)**.
 
@@ -11,7 +14,7 @@ My research focuses on developing **data-efficient and generalizable machine lea
 
 ---
 
-## 🎯 Research Focus
+## Research Focus
 
 - **Generative AI for materials discovery**
 - **Small-data learning (in-context learning, active learning)**
@@ -20,7 +23,7 @@ My research focuses on developing **data-efficient and generalizable machine lea
 
 ---
 
-## ⭐ Selected Publications
+## Selected Publications
 
 **Q. Li, R. Dong**, et al.  
 *npj Computational Materials*, 2026  
@@ -38,29 +41,12 @@ My research focuses on developing **data-efficient and generalizable machine lea
 *ACS Applied Materials & Interfaces*, 2022  
 → Deep learning for XRD prediction  
 
----
-
-## 🔥 Research Projects
-
-- NSF: Thermal materials discovery via deep learning  
-- NSF: Generative AI for inverse materials design  
-- NSF: Interface design for wide-bandgap semiconductors  
 
 ---
 
-## 🏆 Honors
+## Honors
 
 - CSC Outstanding Self-Financed Student Award (2024)
-
----
-
-## 📊 Research Summary
-
-I develop unified AI frameworks for:
-
-- Structure generation (diffusion / transformer models)
-- Property prediction (deep learning models)
-- Inverse design (AI + physics integration)
 
 ---
 
