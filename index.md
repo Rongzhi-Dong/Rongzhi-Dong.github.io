@@ -3,16 +3,6 @@ layout: home
 author_profile: true
 ---
 
-<!-- # Rongzhi Dong -->
-
-<!-- Ph.D., Computer Science (2026)   
-University of South Carolina 
-
-📧 rongzhid@email.sc.edu  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=Duqx0poAAAAJ) -->
-
----
-
 ## 🔬 About Me
 
 I am a Ph.D. candidate working at the intersection of **Generative AI and AI for Science (AI4Science)**.
