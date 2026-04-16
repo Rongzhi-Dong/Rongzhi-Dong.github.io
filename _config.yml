@@ -35,20 +35,19 @@ defaults:
     values:
       layout: single
 
-navigation:
-  main:
-    - title: "About"
-      url: /#about
-    - title: "Research"
-      url: /#research
-    - title: "Publications"
-      url: /#publications
-    - title: "Service"
-      url: /#service
-    - title: "Experience"
-      url: /#experience
-    - title: "Awards"
-      url: /#awards
+nav:
+  - title: "About"
+    url: /#about
+  - title: "Research"
+    url: /#research
+  - title: "Publications"
+    url: /#publications
+  - title: "Service"
+    url: /#service
+  - title: "Experience"
+    url: /#experience
+  - title: "Awards"
+    url: /#awards
 
 footer_scripts:
   - /assets/js/scrollspy.js
