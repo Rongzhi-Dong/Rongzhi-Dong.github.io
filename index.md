@@ -5,7 +5,7 @@ title: ""
 entries_layout: list
 paginate: false
 ---
-<div id="About"></div>
+<div id="about"></div>
 ## About Me
 
 I am Rongzhi Dong, a Ph.D. in Computer Science from the University of South Carolina. My research lies at the intersection of machine learning and materials science, focusing on **generative AI and data-efficient methods for scientific discovery (AI4Science)**.
@@ -13,7 +13,7 @@ I am Rongzhi Dong, a Ph.D. in Computer Science from the University of South Caro
 I conducted my doctoral research in the Machine Learning and Evolution Laboratory under the supervision of Dr. Jianjun Hu. Prior to that, I received my M.S. in Mechanical Engineering from Guizhou University and my B.S. in Engineering Mechanics from China Agricultural University.
 
 ---
-<div id="Research"></div>
+<div id="research"></div>
 ## Research Focus
 
 - **Generative AI for materials discovery**
@@ -22,7 +22,7 @@ I conducted my doctoral research in the Machine Learning and Evolution Laborator
 - **Geometric deep learning & equivariant networks**
 
 ---
-<div id="Publication"></div>
+<div id="publication"></div>
 ## Selected Publications
 
 Qinyang Li†, Rongzhi Dong†, Nicholas Miklaucic, Jeffrey Hu, Sadman Sadeed Omee, Lai Wei, Sourin Dey, Ming Hu, Jianjun Hu
@@ -46,7 +46,7 @@ ACS Applied Materials & Interfaces, 2022
 → DeepXRD, a deep learning model for predicting XRD spectrum from material composition. [paper](https://pubs.acs.org/doi/10.1021/acsami.2c05812)
 
 ---
-<div id="Service"></div>
+<div id="service"></div>
 ## Academic Service
 
 **Reviewer of Refereed Journals**
@@ -69,7 +69,7 @@ ACS Applied Materials & Interfaces, 2022
 - PIMRC
 
 ---
-<div id="Experience"></div>
+<div id="experience"></div>
 ## Work Experience
 
 **Lawrence Livermore National Laboratory (LLNL), USA**  
@@ -81,7 +81,7 @@ Developed diffusion-based generative models for carbon single-crystal interfaces
 Delivered lectures on AI-driven scientific discovery, covering machine learning fundamentals and generative models, and mentored students on research projects.
 
 ---
-<div id="Awards"></div>
+<div id="awards"></div>
 ## Awards
 
 - CSC Outstanding Self-Financed Student Award (2024)
