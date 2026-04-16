@@ -31,13 +31,11 @@ body {
   padding-top: 80px;
 }
 /* 固定左侧栏 */
-.sidebar {
-  position: fixed !important;
-  top: 90px; /* = 你的导航栏高度 */
-  left: 0;
-  width: 250px;
+.author__avatar,
+.author__content {
+  position: fixed;
+  top: 100px;
 }
-
 
 /* ===== Anchor offset（点击跳转不会被遮挡） ===== */
 div[id] {
