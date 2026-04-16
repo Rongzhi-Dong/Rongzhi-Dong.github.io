@@ -2,7 +2,8 @@
 layout: home
 author_profile: true
 title: ""
-show_posts: false
+entries_layout: list
+paginate: false
 ---
 
 
