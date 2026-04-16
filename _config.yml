@@ -38,17 +38,17 @@ defaults:
 navigation:
   main:
     - title: "About"
-      url: /#About
+      url: /#about
     - title: "Research"
-      url: /#Research
-    - title: "Publications"
-      url: /#Publications
+      url: /#research
+    - title: "Publication"
+      url: /#publication
     - title: "Service"
-      url: /#Service
+      url: /#service
     - title: "Experience"
-      url: /#Experience
-    - title: "Awards"
-      url: /#Awards
+      url: /#experience
+    - title: "Award"
+      url: /#awards
 
 footer_scripts:
   - /assets/js/scrollspy.js
