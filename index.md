@@ -5,8 +5,7 @@ title: ""
 entries_layout: list
 paginate: false
 ---
-
-
+<div id="About"></div>
 ## About Me
 
 I am Rongzhi Dong, a Ph.D. in Computer Science from the University of South Carolina. My research lies at the intersection of machine learning and materials science, focusing on **generative AI and data-efficient methods for scientific discovery (AI4Science)**.
@@ -14,7 +13,7 @@ I am Rongzhi Dong, a Ph.D. in Computer Science from the University of South Caro
 I conducted my doctoral research in the Machine Learning and Evolution Laboratory under the supervision of Dr. Jianjun Hu. Prior to that, I received my M.S. in Mechanical Engineering from Guizhou University and my B.S. in Engineering Mechanics from China Agricultural University.
 
 ---
-
+<div id="Research"></div>
 ## Research Focus
 
 - **Generative AI for materials discovery**
@@ -23,7 +22,7 @@ I conducted my doctoral research in the Machine Learning and Evolution Laborator
 - **Geometric deep learning & equivariant networks**
 
 ---
-
+<div id="Publication"></div>
 ## Selected Publications
 
 Qinyang Li†, Rongzhi Dong†, Nicholas Miklaucic, Jeffrey Hu, Sadman Sadeed Omee, Lai Wei, Sourin Dey, Ming Hu, Jianjun Hu
@@ -46,15 +45,46 @@ Rongzhi Dong, Yong Zhao, Yuqi Song, Nihang Fu, Sadman Sadeed Omee, Sourin Dey, Q
 ACS Applied Materials & Interfaces, 2022  
 → DeepXRD, a deep learning model for predicting XRD spectrum from material composition. [paper](https://pubs.acs.org/doi/10.1021/acsami.2c05812)
 
+---
+<div id="Service"></div>
+## Academic Service
+
+**Reviewer of Refereed Journals**
+-Journal of the American Chemical Society
+-Advanced Science
+-npj Computational Materials
+-IEEE Access
+-Scientific Reports
+-Digital Discovery
+-Langmuir
+-Machine Learning
+-Chemical Physics Letters
+
+**Reviewer of Refereed Conferences**
+-IEEE TMC
+-Globecom
+-VTC
+-PIMRC
 
 ---
+<div id="Experience"></div>
+## Work Experience
 
-## Honors
+**Lawrence Livermore National Laboratory (LLNL), USA**  
+*Materials Science Intern, May 2024 – Aug 2024*  
+Developed diffusion-based generative models for carbon single-crystal interfaces, enabling atomistic-level structure generation and property modeling.
+
+**AI4Science Summer Program, South Carolina, USA**  
+*Instructor, May 2025 – Aug 2025*  
+Delivered lectures on AI-driven scientific discovery, covering machine learning fundamentals and generative models, and mentored students on research projects.
+
+---
+<div id="Award"></div>
+## Award
 
 - CSC Outstanding Self-Financed Student Award (2024)
 
 ---
-
 ## Full Publications
 
 See full list on my [Google Scholar](https://scholar.google.com/citations?user=Duqx0poAAAAJ)
