@@ -52,6 +52,6 @@ ACS Applied Materials & Interfaces, 2022
 
 ---
 
-## 📄 Full Publications
+## Full Publications
 
-👉 See full list on my [Google Scholar](https://scholar.google.com/citations?user=Duqx0poAAAAJ)
+See full list on my [Google Scholar](https://scholar.google.com/citations?user=Duqx0poAAAAJ)
