@@ -37,9 +37,15 @@ defaults:
 
 navigation:
   main:
-    - title: "Home"
-      url: /
+    - title: "About"
+      url: /#About
     - title: "Research"
-      url: /research/
+      url: /#Research
     - title: "Publications"
-      url: /publications/
+      url: /#Publications
+    - title: "Service"
+      url: /#Service
+    - title: "Experience"
+      url: /#Experience
+    - title: "Awards"
+      url: /#Awards
