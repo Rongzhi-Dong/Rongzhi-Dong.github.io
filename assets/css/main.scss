@@ -1,31 +1,27 @@
----
-# 必须有（否则CSS不会生效）
----
-
 /* ===== Smooth scroll ===== */
 html {
   scroll-behavior: smooth;
 }
 
-/* ===== FIX TRUE HEADER ===== */
-header {
+/* ===== FIXED NAVBAR (真正固定在屏幕顶部) ===== */
+.masthead {
   position: fixed !important;
-  top: 0 !important;
+  top: 0;
   left: 0;
   width: 100%;
-  z-index: 9999 !important;
-  background-color: #ffffff !important;
+  z-index: 1000;
+  background-color: #ffffff;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
-/* ===== VERY IMPORTANT: push ALL content down ===== */
-.initial-content {
-  margin-top: 90px !important;
+/* ===== 防止内容被遮挡 ===== */
+.page {
+  margin-top: 80px;
 }
 
-/* ===== Fix anchor jump offset ===== */
+/* ===== Anchor offset（点击跳转不会被遮挡） ===== */
 div[id] {
-  scroll-margin-top: 100px;
+  scroll-margin-top: 90px;
 }
 
 /* ===== Navigation Highlight ===== */
@@ -45,7 +41,7 @@ section {
   margin-bottom: 40px;
 }
 
-/* ===== Optional highlight when jumped ===== */
+/* ===== Highlight current section ===== */
 section:target {
   background-color: #fafafa;
   transition: 0.3s;
@@ -58,7 +54,7 @@ h2 {
   margin-bottom: 10px;
 }
 
-/* ===== Improve readability ===== */
+/* ===== Publication spacing ===== */
 p {
   margin-bottom: 8px;
 }
