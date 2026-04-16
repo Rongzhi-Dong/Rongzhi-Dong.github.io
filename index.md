@@ -81,8 +81,8 @@ Developed diffusion-based generative models for carbon single-crystal interfaces
 Delivered lectures on AI-driven scientific discovery, covering machine learning fundamentals and generative models, and mentored students on research projects.
 
 ---
-<div id="Award"></div>
-## Award
+<div id="Awards"></div>
+## Awards
 
 - CSC Outstanding Self-Financed Student Award (2024)
 
