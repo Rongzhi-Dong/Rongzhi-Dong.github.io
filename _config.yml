@@ -48,7 +48,7 @@ navigation:
     - title: "Experience"
       url: /#Experience
     - title: "Awards"
+      url: /#Awards
 
 footer_scripts:
   - /assets/js/scrollspy.js
-      url: /#Awards
