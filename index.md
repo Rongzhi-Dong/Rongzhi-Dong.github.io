@@ -1,12 +1,11 @@
 ---
-layout: single
+layout: home
 author_profile: true
-permalink: /
 ---
 
 
 
-## About Me
+
 
 I am a Ph.D. candidate working at the intersection of **Generative AI and AI for Science (AI4Science)**.
 
