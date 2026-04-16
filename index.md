@@ -7,7 +7,7 @@ title: ""
 
 ## About Me
 
-I am a Ph.D. candidate working at the intersection of **Generative AI and AI for Science (AI4Science)**.
+I am a Ph.D. in Computer Science working at the intersection of **Generative AI and AI for Science (AI4Science)**.
 
 My research focuses on developing **data-efficient and generalizable machine learning methods** to accelerate scientific discovery, particularly in **materials design**.
 
