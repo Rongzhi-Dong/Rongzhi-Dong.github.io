@@ -35,7 +35,6 @@ defaults:
     values:
       layout: single
       
-head_scripts:
-  - /assets/css/override.css
+
 footer_scripts:
   - /assets/js/scrollspy.js
