@@ -31,19 +31,11 @@ body {
   padding-top: 80px;
 }
 
-/* 关闭模板 sticky */
-.sticky {
-  position: static !important;
-}
-
-/* 固定左侧栏 */
 .sidebar {
-  position: fixed !important;
+  position: sticky !important;
   top: 90px;
-  left: 40px;
-  width: 260px;
+  align-self: start;
 }
-
 
 /* ===== Anchor offset（点击跳转不会被遮挡） ===== */
 div[id] {
