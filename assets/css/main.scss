@@ -2,7 +2,10 @@
 html {
   scroll-behavior: smooth;
 }
-
+.initial-content {
+  overflow: visible !important;
+  height: auto !important;
+}
 /* ===== FIXED NAVBAR (真正固定在屏幕顶部) ===== */
 .masthead {
   position: fixed !important;
@@ -16,7 +19,7 @@ html {
 
 /* ===== 防止内容被遮挡 ===== */
 .page {
-  margin-top: 80px;
+  padding-top: 80px;
 }
 
 /* ===== Anchor offset（点击跳转不会被遮挡） ===== */
