@@ -22,7 +22,7 @@ I conducted my doctoral research in the Machine Learning and Evolution Laborator
 - **Geometric deep learning & equivariant networks**
 
 ---
-<div id="publication"></div>
+<div id="publications"></div>
 ## Selected Publications
 
 Qinyang Li†, Rongzhi Dong†, Nicholas Miklaucic, Jeffrey Hu, Sadman Sadeed Omee, Lai Wei, Sourin Dey, Ming Hu, Jianjun Hu
