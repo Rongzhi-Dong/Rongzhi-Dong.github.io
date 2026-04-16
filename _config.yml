@@ -41,13 +41,13 @@ navigation:
       url: /#about
     - title: "Research"
       url: /#research
-    - title: "Publication"
-      url: /#publication
+    - title: "Publications"
+      url: /#publications
     - title: "Service"
       url: /#service
     - title: "Experience"
       url: /#experience
-    - title: "Award"
+    - title: "Awards"
       url: /#awards
 
 footer_scripts:
