@@ -8,9 +8,9 @@ show_posts: false
 
 ## About Me
 
-I am a Ph.D. in Computer Science working at the intersection of **Generative AI and AI for Science (AI4Science)**.
+I am Rongzhi Dong, a Ph.D. in Computer Science from the University of South Carolina. My research lies at the intersection of machine learning and materials science, focusing on **generative AI and data-efficient methods for scientific discovery (AI4Science)**.
 
-My research focuses on developing **data-efficient and generalizable machine learning methods** to accelerate scientific discovery, particularly in **materials design**.
+I conducted my doctoral research in the Machine Learning and Evolution Laboratory under the supervision of Dr. Jianjun Hu. Prior to that, I received my M.S. in Mechanical Engineering from Guizhou University and my B.S. in Engineering Mechanics from China Agricultural University.
 
 ---
 
