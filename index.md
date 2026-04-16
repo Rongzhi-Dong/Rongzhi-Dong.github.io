@@ -5,7 +5,6 @@ title: ""
 entries_layout: list
 paginate: false
 ---
-
 <div id="about"></div>
 ## About Me
 
