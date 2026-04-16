@@ -28,13 +28,13 @@ html, body {
 }
 /* ===== 防止内容被挡 ===== */
 body {
-  padding-top: 80px;
+  padding-top: 70px;
 }
 
 
 /* ===== Anchor offset（点击跳转不会被遮挡） ===== */
 div[id] {
-  scroll-margin-top: 90px;
+  scroll-margin-top: 70px;
 }
 
 /* ===== Navigation Highlight ===== */
