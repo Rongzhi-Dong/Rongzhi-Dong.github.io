@@ -5,26 +5,6 @@ title: ""
 entries_layout: list
 paginate: false
 ---
-<style>
-header.masthead {
-  position: fixed !important;
-  top: 0 !important;
-  left: 0;
-  width: 100%;
-  z-index: 9999 !important;
-  background: #ffffff !important;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.initial-content {
-  margin-top: 100px !important;
-}
-
-div[id] {
-  scroll-margin-top: 110px;
-}
-</style>
-
 
 <div id="about"></div>
 ## About Me
