@@ -25,6 +25,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  posts:
+    output: false
 
 defaults:
   - scope:
