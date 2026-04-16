@@ -51,22 +51,22 @@ ACS Applied Materials & Interfaces, 2022
 
 **Reviewer of Refereed Journals**
 
--Journal of the American Chemical Society
--Advanced Science
--npj Computational Materials
--IEEE Access
--Scientific Reports
--Digital Discovery
--Langmuir
--Machine Learning
--Chemical Physics Letters
+- Journal of the American Chemical Society
+- Advanced Science
+- npj Computational Materials
+- IEEE Access
+- Scientific Reports
+- Digital Discovery
+- Langmuir
+- Machine Learning
+- Chemical Physics Letters
 
 **Reviewer of Refereed Conferences**
 
--IEEE TMC
--Globecom
--VTC
--PIMRC
+- IEEE TMC
+- Globecom
+- VTC
+- PIMRC
 
 ---
 <div id="Experience"></div>
